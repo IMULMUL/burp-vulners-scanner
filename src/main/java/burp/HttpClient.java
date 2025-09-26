@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class HttpClient {
 
-    private static final String VULNERS_BURP_VERSION = "1.4";
+    private static final String VULNERS_BURP_VERSION = "1.4.2";
     private static final String VULNERS_API_HOST = "vulners.com";
     private static final String VULNERS_API_GET_RULES_PATH = "/api/v3/burp/rules/";
     private static final String VULNERS_API_GET_LICENSES = "/api/v3/useraction/licenseids";

@@ -398,7 +398,7 @@
                 </constraints>
                 <properties>
                   <enabled value="true"/>
-                  <selected value="true"/>
+                  <selected value="false"/>
                   <text value=""/>
                 </properties>
               </component>
